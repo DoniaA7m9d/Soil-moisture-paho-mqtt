@@ -31,7 +31,7 @@ https://github.com/DoniaA7m9d/Soil-moisture-paho-mqtt.git
 
 ## Screenshot
 **Serial Monitor Output:**  
-![Serial Monitor Output](Screenshot_٢٠٢٦٠٥٢٨-١٣٠٤٦.png)
+![Serial Monitor Output](Screenshot_٢٠٢٦٠٥٢٨-١٣٠٤٤٦.png)
 
 **Generated Graph from Colab:**  
 ![Generated Graph from Colab](Screenshot_٢٠٢٦٠٥٢٨-١٣٠٤٥٩.png)
